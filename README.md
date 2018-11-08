@@ -11,7 +11,7 @@ This project is a compulsory course for me during my college years. It records m
 <img src="https://github.com/550645679/HTMLCourse/blob/master/ViewProject/Travel.png">
 
 # Flower
-<img src="https://github.com/550645679/HTMLCourse/blob/master/ViewProject/Travel.png">
+<img src="https://github.com/550645679/HTMLCourse/blob/master/ViewProject/Flower.png">
 
 # Child(Waiting)
 <img src="#">
