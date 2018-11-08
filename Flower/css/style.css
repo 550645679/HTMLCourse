@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background:#EDEDED;
+    font-family:'楷体';
+    font-size:16px;
+    color:#A5A5A5;
+}
+
+div#header{
+    width:980px;
+    height:86px;
+    margin:0 auto 7px;
+    line-height:86px;
+    text-align:center;
+    font-family:'微软雅黑';
+}
+
+div#header h1{font-weight:normal;}
+
+div#header strong{
+    font-weight:normal;
+    font-size:30px;
+}
+
+div#sort{
+    width:980px;
+    margin:0 auto;
+}
+
+div#sort h2{
+    font-size:14px;
+    font-family:'微软雅黑';
+    color:#A5A5A5;
+    height:42px;
+    line-height:42px;
+}
+
+div#sort p{
+    text-align:center;
+    line-height:30px;
+    font-size:18px;
+}
+
+div#hotsell{
+    width:602px;
+    margin:0 auto;
+}
+
+p#txt{
+    line-height:30px;
+    text-indent:2em;
+}
+
+p#txt em{
+    font-style:normal;
+    text-decoration:underline;
+}
+
+div#infomation{
+    width:602px;
+    margin:0 auto;
+    font-family:'微软雅黑';
+    text-align:center;
+    font-size:16px;
+    font-weight:bold;
+}
+
+div#administor{
+    width:602px;
+    margin:0 auto;
+}
+
+div#administor h3,div#administor p{text-indent:2em;}
+
+div#administor h3{
+    height:30px;
+    line-height:30px;
+    font-weight:normal;
+    font-family:'微软雅黑';
+    font-size:18px;
+}
+
+div#administor p{
+    font-size:14px;
+    line-height:26px;
+    font-style:italic;
+}
