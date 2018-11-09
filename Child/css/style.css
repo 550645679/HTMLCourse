@@ -3,8 +3,16 @@
     padding:0;
 }
 div#header{
-    background:#92C1D1;
+    background:url(../images/bg.jpg);
     width:980px;
     height:617px;
-    margin-top:10px;
+}
+div#navigation{
+    background:url(../images/nav.jpg);
+    float:left;
+    width:971px;
+    height:86px;
+    margin-top:20px;
+    line-height:86px;
+    margin-left:8px;
 }
