@@ -1,24 +1,28 @@
 *{
     margin:0 auto;
     padding:0;
+    border:0;
+    background:none;
+}
+body{
+    font-family:'微软雅黑';
+    background:#FDFDFD;
 }
 div#header{
-    background:url(../images/bg.jpg);
+    background:url(../images/bg.jpg) no-repeat;
     width:980px;
     height:617px;
+    margin-top:10px;
 }
 div#navigation{
-    background:url(../images/nav.jpg);
-    float:left;
-    width:971px;
-    height:86px;
-    margin-top:20px;
-    line-height:86px;
-    margin-left:8px;
+    background:url(../images/nav.png) no-repeat;
+    width:848px;
+    height:46px;
+    padding:40px 0 0 123px;
 }
-div#navleft{
-    float:left;
+span{
+    color:#685649;
+    font-size:16px;
+    padding:0 30px;
 }
-div#navright{
-    float:right;
-}
+span#margin{margin-right:240px;}
