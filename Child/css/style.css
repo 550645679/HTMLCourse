@@ -16,3 +16,9 @@ div#navigation{
     line-height:86px;
     margin-left:8px;
 }
+div#navleft{
+    float:left;
+}
+div#navright{
+    float:right;
+}
