@@ -61,3 +61,14 @@ p#shadow{
     height:5px;
     background:url(../images/yinying.jpg) no-repeat;
 }
+div#active{
+    width:980px;
+    height:292px;
+    background:url(../images/xinshang.jpg) no-repeat;
+    padding-top:170px;
+}
+div#picture{
+    width:916px;
+    height:260px;
+}
+div#picture img{margin-left:56px;}
