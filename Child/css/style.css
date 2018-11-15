@@ -59,7 +59,7 @@ p#second{
 p#shadow{
     width:294px;
     height:5px;
-    background:url(../images/yinying.jpg) no-repeat;
+    background:#999;
 }
 div#active{
     width:980px;
@@ -84,4 +84,20 @@ div#tree{
     position:fixed;
     right:5%;
     bottom:5%;
+}
+a:link{
+    color:#685649;
+    text-decoration:none;
+}
+a:visited{
+    color:#685649;
+    text-decoration:none;
+}
+a:hover{
+    color:#685649;
+    text-decoration:none;
+}
+a:active{
+    color:#685649;
+    text-decoration:none;
 }
