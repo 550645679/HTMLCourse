@@ -1,8 +1,10 @@
+/* 定义全局 */
 *{
-    margin:0;
+    margin:0 auto;
     padding:0;
 }
 
+/* 定义主体 */
 body{
     background:#EDEDED;
     font-family:'楷体';
@@ -10,6 +12,7 @@ body{
     color:#A5A5A5;
 }
 
+/* 定义头部 */
 div#header{
     width:980px;
     height:86px;
@@ -19,18 +22,19 @@ div#header{
     font-family:'微软雅黑';
 }
 
+/* 定义头部标题 */
 div#header h1{font-weight:normal;}
 
+/* 定义头部大标题 */
 div#header strong{
     font-weight:normal;
     font-size:30px;
 }
 
-div#sort{
-    width:980px;
-    margin:0 auto;
-}
+/* 设定分类块大小 */
+div#sort{width:980px;}
 
+/* 定义分类字体 */
 div#sort h2{
     font-size:14px;
     font-family:'微软雅黑';
@@ -39,27 +43,29 @@ div#sort h2{
     line-height:42px;
 }
 
+/* 定义段落 */
 div#sort p{
     text-align:center;
     line-height:30px;
     font-size:18px;
 }
 
-div#hotsell{
-    width:602px;
-    margin:0 auto;
-}
+/* 设置热卖块大小 */
+div#hotsell{width:602px;}
 
+/* 定义第二段文字 */
 p#txt{
     line-height:30px;
     text-indent:2em;
 }
 
-p#txt em{
+/* 定义第二段文字中的部分文字 */
+p#txt font{
     font-style:normal;
     text-decoration:underline;
 }
 
+/* 定义网页信息 */
 div#infomation{
     width:602px;
     margin:0 auto;
@@ -69,13 +75,16 @@ div#infomation{
     font-weight:bold;
 }
 
+/* 定义店主部分 */
 div#administor{
     width:602px;
     margin:0 auto;
 }
 
+/* 设置店主名称和介绍首行缩进2格 */
 div#administor h3,div#administor p{text-indent:2em;}
 
+/* 定义店主名称文字 */
 div#administor h3{
     height:30px;
     line-height:30px;
@@ -84,6 +93,7 @@ div#administor h3{
     font-size:18px;
 }
 
+/* 定义店主介绍文字 */
 div#administor p{
     font-size:14px;
     line-height:26px;

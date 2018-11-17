@@ -85,6 +85,8 @@ div#tree{
     right:5%;
     bottom:5%;
 }
+
+/* 设置超链接颜色及样式 */
 a:link{
     color:#685649;
     text-decoration:none;

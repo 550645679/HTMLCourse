@@ -7,10 +7,10 @@ This project is a compulsory course for me during my college years. It records m
 <br><br>
 <strong>Course:</strong><br>前端开发基础
 
-# Travel(waiting fix) <a href="https://711.lzzy.ml/lx/HTMLCourse/Travel">→Page Preview←</a>
+# Travel <a href="https://711.lzzy.ml/lx/HTMLCourse/Travel">→Page Preview←</a>
 <img src="https://github.com/550645679/HTMLCourse/blob/master/Travel/View.png">
 
-# Flower(waiting fix) <a href="https://711.lzzy.ml/lx/HTMLCourse/Flower">→Page Preview←</a>
+# Flower <a href="https://711.lzzy.ml/lx/HTMLCourse/Flower">→Page Preview←</a>
 <img src="https://github.com/550645679/HTMLCourse/blob/master/Flower/View.png">
 
 # Child(waiting fix) <a href="https://711.lzzy.ml/lx/HTMLCourse/Child">→Page Preview←</a>
