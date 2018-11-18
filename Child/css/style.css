@@ -1,31 +1,44 @@
+/* 定义全局 */
 *{
     margin:0 auto;
     padding:0;
-    border:0;
-    background:none;
 }
+
+/* 定义主体字体和背景颜色 */
 body{
     font-family:'Microsoft YaHei';
     background:#FDFDFD;
 }
+
+/* 定义头部框架 */
 div#header{
     background:url(../images/bg.jpg) no-repeat;
     width:980px;
     height:617px;
     padding-top:10px;
 }
+
+/* 定义导航文字 */
 div#navigation{
     background:url(../images/nav.png) no-repeat;
     width:848px;
     height:46px;
     padding:40px 0 0 123px;
 }
-span{
+ul li{
     color:#685649;
     font-size:16px;
     padding:0 30px;
+    float:left;
+    list-style:none;
 }
-span#margin{margin-right:240px;}
+li#li2{
+    margin-right:240px;
+    float:left;
+    list-style:none;
+}
+
+/* 定义最新动态内容 */
 div#news{
     width:980px;
     height:300px;
@@ -33,6 +46,8 @@ div#news{
     margin:18px auto;
     padding-top:120px;
 }
+
+/* 定义方块内容 */
 div#nc{
     width:294px;
     height:256px;
@@ -61,6 +76,8 @@ p#shadow{
     height:5px;
     background:#999;
 }
+
+/* 定义欣赏图片 */
 div#active{
     width:980px;
     height:292px;
@@ -72,6 +89,8 @@ div#picture{
     height:260px;
 }
 div#picture img{margin-left:56px;}
+
+/* 定义页脚部分 */
 div#footer{
     width:100%;
     height:80px;
@@ -80,6 +99,8 @@ div#footer{
     text-align:center;
     background:url(../images/footer_bg.jpg) repeat-x;
 }
+
+/* 设置悬浮二维码 */
 div#tree{
     position:fixed;
     right:5%;

@@ -13,5 +13,5 @@ This project is a compulsory course for me during my college years. It records m
 # Flower <a href="https://711.lzzy.ml/lx/HTMLCourse/Flower">→Page Preview←</a>
 <img src="https://github.com/550645679/HTMLCourse/blob/master/Flower/View.png">
 
-# Child(waiting fix) <a href="https://711.lzzy.ml/lx/HTMLCourse/Child">→Page Preview←</a>
+# Child <a href="https://711.lzzy.ml/lx/HTMLCourse/Child">→Page Preview←</a>
 <img src="https://github.com/550645679/HTMLCourse/blob/master/Child/View.png">
