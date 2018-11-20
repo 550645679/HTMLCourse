@@ -15,3 +15,6 @@ This project is a compulsory course for me during my college years. It records m
 
 # Child <a href="https://711.lzzy.ml/lx/HTMLCourse/Child">→Page Preview←</a>
 <img src="https://github.com/550645679/HTMLCourse/blob/master/Child/View.png">
+
+# Delivery(Writing) <a href="https://711.lzzy.ml/lx/HTMLCourse/Delivery">→Page Preview←</a>
+<img src="https://github.com/550645679/HTMLCourse/blob/master/Delivery/View.png">
