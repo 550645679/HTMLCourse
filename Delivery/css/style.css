@@ -1,7 +1,14 @@
 *{
     margin:0 auto;
     padding:0;
+    list-style:none;
 }
 body{
-    
+    background:#FFF9ED;
+    font:14px 'Microsoft YaHei';
+}
+a:link,a:visited{
+    text-decoration:none;
+    color:#FFF;
+    font:16px;
 }
