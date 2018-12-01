@@ -198,5 +198,6 @@ div#fashion #current dl{
 }
 div#fashion #current #match1{
     height:214px;
-    
+    border:1px solid #DCD2BA;
+    background:url(../images/match01.jpg) no-repeat center;
 }
