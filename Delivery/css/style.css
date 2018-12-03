@@ -201,3 +201,10 @@ div#fashion #current #match1{
     border:1px solid #DCD2BA;
     background:url(../images/match01.jpg) no-repeat center;
 }
+div#fashion #current #curr1{
+    height:66px;
+    line-height:66px;
+    text-align:center;
+    color:#7A7A7A;
+    font-size:22px;
+}
