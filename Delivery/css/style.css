@@ -186,7 +186,7 @@ div#fashion h2{
 div#fashion #current{
     width:958px;
     border:1px solid #DCD2BA;
-    height:500px;
+    height:350px;
     background:white;
     padding:13px 0 0 20px;
 }
@@ -196,10 +196,9 @@ div#fashion #current dl{
     margin-right:5px;
     border:1px solid #DCD2BA;
 }
-div#fashion #current #match1{
+div#fashion #current #match1,div#fashion #current #match2,div#fashion #current #match3,div#fashion #current #match4{
     height:214px;
     border:1px solid #DCD2BA;
-    background:url(../images/match01.jpg) no-repeat center;
 }
 div#fashion #current #curr1{
     height:66px;
@@ -207,4 +206,35 @@ div#fashion #current #curr1{
     text-align:center;
     color:#7A7A7A;
     font-size:22px;
+}
+div#fashion #current #curr2{
+    width:140px;
+    height:38px;
+    margin:0 14px 15px 14px;
+    line-height:38px;
+    padding-left:10px;
+    color:white;
+}
+div#fashion #current #curr2 a{
+    background:#F3734E url(../images/gouwu.jpg) left center no-repeat;
+    text-align:center;
+}
+div#fashion #current #match1{background:url(../images/match01.jpg) center center no-repeat;}
+div#fashion #current #match2{background:url(../images/match02.jpg) center center no-repeat;}
+div#fashion #current #match3{background:url(../images/match03.jpg) center center no-repeat;}
+div#fashion #current #match4{background:url(../images/match04.jpg) center center no-repeat;}
+div#fashion #current a{
+    display:inline-block;
+    width:180px;
+    height:38px;
+}
+div#fashion #current a:link,div#fashion #current a:visited{
+    text-decoration:none;
+    background:#EC6E47;
+    color:white;
+}
+div#fashion #current a:hover,div#fashion #current a:active{
+    text-decoration:none;
+    background:#FF9D82;
+    color:yellow;
 }
