@@ -1,0 +1,66 @@
+*{
+    margin:0 auto;
+    padding:0;
+}
+div#header{
+    width:980px;
+    height:61px;
+    background:url(../images/logo.jpg) center center no-repeat;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+div#navigation{
+    background:#FE668F;
+    width:100%;
+    height:48px;
+}
+div#navigation ul{width:792px;}
+div#navigation ul li{
+    float:left;
+    list-style:none;
+}
+div#navigation ul li a{
+    height:48px;
+    line-height:48px;
+    padding:0 50px;
+    display:inline-block;
+}
+div#navigation ul li a:link,div#navigation ul li a:visited{
+    text-decoration:none;
+    color:white;
+}
+div#navigation ul li a:hover,div#navigation ul li a:active{
+    text-decoration:none;
+    color:white;
+    background:#FE9AB5;
+}
+div#banner{
+    width:980px;
+    height:429px;
+    background:url(../images/banner.jpg) center center no-repeat;
+}
+div#content{
+    width:980px;
+    height:934px;
+    background:url(../images/content_bg.jpg) center center no-repeat;
+    padding-left:300px;
+}
+div#content h2{
+    height:80px;
+    font-weight:normal;
+    color:#DD8787;
+    background:url(../images/step.jpg) 120px 20px no-repeat;
+    padding-top:26px;
+    font:20px 'Microsoft YaHei';
+}
+
+
+div#footer{
+    width:100%;
+    height:68px;
+    line-height:26px;
+    background:#FE668F;
+    color:white;
+    text-align:center;
+    padding-top:40px;
+}

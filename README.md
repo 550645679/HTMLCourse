@@ -19,4 +19,7 @@ This project is a compulsory course for me during my college years. It records m
 # Delivery <a href="https://711.lzzy.ml/lx/HTMLCourse/Delivery">→Page Preview←</a>
 <img src="https://github.com/550645679/HTMLCourse/blob/master/Delivery/View.png">
 
+# Love <a href="https://711.lzzy.ml/lx/HTMLCourse/Love">→Page Preview←</a>
+<img src="https://github.com/550645679/HTMLCourse/blob/master/Love/View.png">
+
 # (A new project)Please you waiting...
