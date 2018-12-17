@@ -26,10 +26,25 @@
 
     </div>
     <div id="content">
-        <h2>注册步骤：</h2>
-        <h3>您的账号信息：</h3>
         <form action="#" method="post" id="one">
-            用户名：<input type="text">
+            <h2>注册步骤：</h2>
+            <h3>您的账号信息：</h3><br>
+            注册方式：<input type="radio" name="sex" id="email"><label for="email">E-mail注册</label>
+            <input type="radio" name="sex" id="phone"><label for="phone">手机号码注册</label>
+            注册邮箱：<input type="email">
+            注册手机：<input type="text">
+            登陆密码：<input type="password">
+            昵称：<input type="text">
+            <h3>您的个人信息：</h3><br>
+            注册方式：<input type="radio" name="sex" id="man"><label for="man">男</label>
+            <input type="radio" name="sex" id="men"><label for="men">女</label>
+            学历：<select>
+                <option>-请选择-</option>
+                <option>中职/高中</option>
+                <option>专科/本科</option>
+                <option>硕士研究生</option>
+                <option>博士研究生</option>
+            </select>
         </form>
     </div>
     <div id="footer">
