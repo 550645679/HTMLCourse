@@ -46,14 +46,13 @@ div#content{
     padding-left:300px;
 }
 div#content h2{
-    height:80px;
+    height:60px;
     font-weight:normal;
     color:#DD8787;
     background:url(../images/step.jpg) 120px 20px no-repeat;
     padding-top:26px;
     font:20px 'Microsoft YaHei';
 }
-
 
 div#footer{
     width:100%;
