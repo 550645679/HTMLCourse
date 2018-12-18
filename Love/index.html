@@ -29,22 +29,37 @@
         <form action="#" method="post" id="one">
             <h2>注册步骤：</h2>
             <h3>您的账号信息：</h3><br>
-            注册方式：<input type="radio" name="sex" id="email"><label for="email">E-mail注册</label>
-            <input type="radio" name="sex" id="phone"><label for="phone">手机号码注册</label>
-            注册邮箱：<input type="email">
-            注册手机：<input type="text">
-            登陆密码：<input type="password">
-            昵称：<input type="text">
+            <p>注册方式：<input type="radio" name="sex" id="email"><label for="email">E-mail注册</label>&nbsp;
+            <input type="radio" name="sex" id="phone"><label for="phone">手机号码注册</label></p>
+            <p>注册邮箱：<input id="frame1" type="email"></p>
+            <p>注册手机：<input id="frame1" type="text"></p>
+            <p>登陆密码：<input id="frame1" type="password"></p>
+            <p style="text-indent:2em;margin-bottom:10px;">昵称：<input id="frame1" type="text"></p>
             <h3>您的个人信息：</h3><br>
-            注册方式：<input type="radio" name="sex" id="man"><label for="man">男</label>
-            <input type="radio" name="sex" id="men"><label for="men">女</label>
-            学历：<select>
+            <p style="text-indent:2em;">性别：<input type="radio" name="sex" id="man"><label for="man">男</label>&nbsp;
+            <input type="radio" name="sex" id="men"><label for="men">女</label></p>
+            <p style="text-indent:2em;">学历：<select id="frame2">
                 <option>-请选择-</option>
                 <option>中职/高中</option>
                 <option>专科/本科</option>
                 <option>硕士研究生</option>
                 <option>博士研究生</option>
-            </select>
+            </select></p>
+            <p>所在城市：<select id="frame2">
+                <option>-请选择-</option>
+                <option selected="selected">北京</option>
+                <option>上海</option>
+                <option>广州</option>
+                <option>深圳</option>
+            </select></p>
+            <p>兴趣爱好：<input type="checkbox">足球&nbsp;
+            <input type="checkbox">篮球&nbsp;
+            <input type="checkbox">游泳&nbsp;
+            <input type="checkbox">唱歌&nbsp;
+            <input type="checkbox">跑步&nbsp;
+            <input type="checkbox">瑜伽</p>
+            <p>自我介绍：<textarea cols="60" rows="8" placeholder="评论的时候，请遵纪守法并注意语言文明，多给文档分享人一些支持。"></textarea></p>
+            <input type="button" id="button">
         </form>
     </div>
     <div id="footer">
