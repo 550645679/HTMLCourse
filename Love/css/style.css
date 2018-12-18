@@ -62,7 +62,35 @@ div#content h3{
     border-bottom:1px #DD8787 solid;
     font:20px 'Microsoft YaHei';
 }
-
+div#content p{
+    color:#DD8787;
+    height:50px;
+    line-height:50px;
+    font-family:'Microsoft YaHei';
+    margin-left:50px;
+}
+div#content input#frame1{
+    width:312px;
+    height:24px;
+    border:1px #DD8787 solid;
+}
+div#content select#frame2{
+    width:172px;
+    height:24px;
+    border:1px #DD8787 solid;
+}
+div#content textarea{
+    width:312px;
+    height:128px;
+    border:1px #DD8787 solid;
+}
+div#content input#button{
+    margin-top:96px;
+    width:408px;
+    height:76px;
+    background:url(../images/btn.jpg) right center no-repeat;
+    border:0;
+}
 div#footer{
     width:100%;
     height:68px;
